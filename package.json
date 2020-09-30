@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Role Playing Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusmanteca/jest-another-RPG.git"
+  },
+  "author": "Jesus Manteca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesusmanteca/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/jesusmanteca/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
